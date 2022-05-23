@@ -1,0 +1,16 @@
+.login-form {
+  width: 100%;
+  max-width: 30rem;
+  margin: 3rem auto;
+  border: 1px solid var(--clr-primary-faded);
+  border-radius: 4px;
+  padding: var(--padding-large);
+  box-shadow: var(--box-shadow-light);
+}
+.form-input {
+  border: 1px solid var(--clr-primary);
+  border-radius: 3px;
+  padding: var(--padding-xs);
+  width: 100%;
+  outline: none;
+}
