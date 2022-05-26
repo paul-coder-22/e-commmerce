@@ -23,7 +23,7 @@
   height: 95vh;
   opacity: 0.5;
 }
-.btn {
+/* .btn {
   display: inline-block;
   padding: var(--padding-sm) var(--padding-large);
   color: var(--clr-black);
@@ -49,7 +49,7 @@
   padding: 0.25rem 0.5rem !important;
   font-size: 0.875rem !important;
   border-radius: 0.2rem !important;
-}
+} */
 .header-position-item {
   position: relative;
   height: 70vh;

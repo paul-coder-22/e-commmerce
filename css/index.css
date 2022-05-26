@@ -302,7 +302,7 @@ code {
 
 /*card  */
 .card {
-  position: relative;
+  /*   position: relative;
   display: flex;
   flex-direction: column;
   min-width: 0;
@@ -311,8 +311,7 @@ code {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
-  width: 18rem;
-  /* transition */
+  width: 18rem; */
   transition: transform 0.2s ease;
   box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
   border-radius: 0;
